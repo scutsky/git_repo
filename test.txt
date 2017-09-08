@@ -3,3 +3,6 @@ test
 adfaf 
 
 adf 
+
+
+git config --global user.namedsfs
